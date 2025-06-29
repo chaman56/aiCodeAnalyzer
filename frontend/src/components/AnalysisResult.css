@@ -1,0 +1,8 @@
+.issue-error {
+    color: red;
+    font-weight: bold;
+}
+
+.issue-warning {
+    color: orange;
+}

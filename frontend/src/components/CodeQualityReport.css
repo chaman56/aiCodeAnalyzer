@@ -1,0 +1,34 @@
+.code-quality-report {
+    margin-top: 20px;
+}
+
+.code-quality-report table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.code-quality-report th,
+.code-quality-report td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.code-quality-report th {
+    background-color: #f2f2f2;
+}
+
+.score-green {
+    color: green;
+    font-weight: bold;
+}
+
+.score-yellow {
+    color: orange;
+    font-weight: bold;
+}
+
+.score-red {
+    color: red;
+    font-weight: bold;
+}
